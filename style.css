@@ -1,0 +1,56 @@
+body{
+    background: #f0f2f5;
+}
+#main{
+    height: 470px;
+    width: 500px;
+    border: 2px solid rgb(12, 8, 8);
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+    text-decoration: solid;
+    background-image: url(./wallpaperflare.com_wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#btn{
+    margin-top: 30px;
+}
+#a,#b{
+    height: 30px;
+    width: 100px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    border: transparent;
+    border-radius: 7px;
+    margin-left: 60px;
+    margin-right: 60px;
+    background: #4CAF50;
+    color: rgb(229, 106, 233);
+    
+}
+#n1{
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: #f0f2f5;
+    border: 1px solid black
+}
+#rule{
+    text-align: justify;
+    margin-left: 80px;
+}
+#h1{
+    padding: 30px;
+}
+#h2{
+    margin-top: -30px;
+}
+#a:hover{
+    background-color: #091609;
+}
+#b:hover{
+    background-color: #071307;
+}
